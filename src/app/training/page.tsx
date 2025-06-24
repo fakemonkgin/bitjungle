@@ -5,7 +5,7 @@ const trainings = [
     id: 1, 
     title: "公司业务介绍", 
     description: "了解公司核心业务、发展历程和未来规划",
-    duration: "45分钟",
+    duration: "10分钟",
     level: "入门",
     // 临时使用测试视频，替换为你的实际视频路径
     video: "/videos/video1.mp4", 
